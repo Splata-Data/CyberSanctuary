@@ -144,8 +144,9 @@ Within vim, spawn a shell:
 ```
 :!/bin/bash
 ```
-```
+
 Now with a root shell, access and read the root flag:
+
 ```
 cd /root
 cat root.txt
