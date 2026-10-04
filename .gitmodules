@@ -1,3 +1,6 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/Splata-Data/Portfolio.git
+[submodule "CTF-Walkthrough"]
+	path = CTF-Walkthrough
+	url = https://github.com/Splata-Data/CTF-Walkthroughs.git
